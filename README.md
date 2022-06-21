@@ -2,3 +2,5 @@
  Criando um repositório curso Git e Github / Curso em Vídeo
  
 Repositório criado durante a aula do curso em vídeo.
+
+Editando o readme diretamente no github.
